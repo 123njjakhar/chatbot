@@ -38,21 +38,21 @@ async def chatbot(client, message):
     umm = await message.reply_sticker("CAACAgIAAxkBAAEForNjAykaq_efq4Wd-9KZv-nNxJRn3AACIgMAAm2wQgO8x8PfoXC1eCkE")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/3f7c8a1feb6ae7e41e925.jpg",
+        photo=f"https://te.legra.ph/file/abe6495a49120abca9c7f.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ 𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈 🔥
+ᴏғ ♻️ 𝐈𝐓𝐒_🇰𝐈𝐍𝐆_𝐍🇯 🔥
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](https://t.me/its_star_boi)
-┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/Star_X_Network)
-┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴄʜᴀᴛ](https://t.me/Best_FriendsFor_Ever)
+┣★ ᴄʀᴇᴀᴛᴇʀ [𝐈𝐓𝐒_🇰𝐈𝐍𝐆_𝐍🇯](https://t.me/ITS_ME_DEVIL_NJ)
+┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/ROMEOBOT_OP)
+┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴄʜᴀᴛ](https://t.me/ROMEOBOT_OP)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Its_star_boi""",
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @ITS_ME_DEVIL_NJ""",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🌼 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💮", url=f"https://t.me/Best_FriendsFor_Ever")]]
+            [[InlineKeyboardButton("🌼 𝐈𝐓𝐒_🇰𝐈𝐍𝐆_𝐍🇯 💮", url=f"https://t.me/ROMEOBOT_OP")]]
         ),
     ) 
 
